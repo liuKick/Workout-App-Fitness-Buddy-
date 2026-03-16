@@ -120,8 +120,8 @@ lib/
    ~Create a file lib/config/~supabase_config.dart with:
 
      class SupabaseConfig {
-  static const String url = 'YOUR_SUPABASE_URL';
-  static const String anonKey = 'YOUR_ANON_KEY';
+  static const String url = '(https://zceewqkrsfykxwepfyny.supabase.co)';
+  static const String anonKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InpjZWV3cWtyc2Z5a3h3ZXBmeW55Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzE5NDM0MTYsImV4cCI6MjA4NzUxOTQxNn0.dCymipD93sOGjQh16PcluuA0Hj1qe7iYywX8_Cp7iYw';
 
 }
 4. Run the app:
@@ -155,6 +155,6 @@ This project was developed as a final-year assignment of RUPP Class SLS Y4. Cont
 📄 License
 This project is for educational purposes. Unless u wanna get extreme Shreded dont use this app ..*wink*
 
-Developed by: [Your Name/Team Name]
+Developed by: [Udomsak,Yueng,Sreyleap,Chanty]
 Date: March 2026
 Course: Mobile Application Development – Year 4
